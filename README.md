@@ -145,4 +145,4 @@ please let me know and I will do my best to correct it.
 
 ## License
 
-### [The Apache License](LICENSE.txt)
+### [The Apache License](LICENSE)
