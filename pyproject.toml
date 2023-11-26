@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "intro2fastapi"
+version = "0.1.0"
+description = ""
+authors = ["Porimol Chandro <p.chandro@student.uw.edu.pl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+scikit-learn = "^1.3.2"
+joblib = "^1.3.2"
+fastapi = "^0.104.1"
+pydantic = "^2.5.2"
+uvicorn = "^0.24.0.post1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
