@@ -2,6 +2,8 @@
 
 Introduction to FastAPI: Building Data Science Projects with Python
 
+[Workshop Slide Decks](https://docs.google.com/presentation/d/1fioyhI3dzY6aydqD9Qak4OM8k1i4x3udPLuCy0TurTY/edit?usp=sharing)
+
 [[_TOC_]]
 
 ## Getting Started
